@@ -1,0 +1,15 @@
+<themes>
+    <theme name="👻GHOST MATRIX" style="classic">
+        <border color="MAGENTA">========================================================================</border>
+        <divider color="MAGENTA">------------------------------------------------------------------------</divider>
+        <colors lbl="CYAN" val="WHITE" num="YELLOW" fn="WHITE"/>
+        <bar fill="█" empty="-" color="CYAN"/>
+    </theme>
+
+    <theme name="🟢 CYBER ARCH" style="compact_left">
+        <border color="GREEN">▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</border>
+        <divider color="GREEN">░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░</divider>
+        <colors lbl="GREEN+BRIGHT" val="YELLOW" num="RED" fn="GREEN"/>
+        <bar fill="█" empty="░" color="GREEN"/>
+    </theme>
+</themes>
