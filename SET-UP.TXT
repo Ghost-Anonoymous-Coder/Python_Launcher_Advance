@@ -1,0 +1,37 @@
+┌────────────────────────────────────────────────────────────────────┐
+│  📱 STEP 1: TERMUX SYSTEM SETUP (ANDROID)                          │
+├────────────────────────────────────────────────────────────────────┤
+│  Update systems and install necessary core build packages:         │
+│                                                                    │
+│  pkg update && pkg upgrade -y                                      │
+│  pkg install git libjpeg-turbo libpng python ndk-sysroot clang make│
+│  pkg install zlib zstd                                             │
+└────────────────────────────────────────────────────────────────────┘
+
+┌────────────────────────────────────────────────────────────────────┐
+│  🌐 STEP 2: CLONE GHOST-MOD                                        │
+├────────────────────────────────────────────────────────────────────┤
+│  Pull down the script files from your repository:                  │
+│                                                                    │
+│  git clone https://github.com          │
+│  cd Ghost-Mod                                                      │
+└────────────────────────────────────────────────────────────────────┘
+
+┌────────────────────────────────────────────────────────────────────┐
+│  📦 STEP 3: PILLOW FAILSAFE ENVIRONMENT FIX                         │
+├────────────────────────────────────────────────────────────────────┤
+│  If regular pip install fails on Pillow, force compilation using   │
+│  explicit external library flags mapped to Termux paths:          │
+│                                                                    │
+│  # Run this script command to build Pillow flawlessly:             │
+│  LDFLAGS="-L/system/lib64/" CFLAGS="-I$PREFIX/include/" \          │
+│  pip install pillow==10.4.0 colorama==0.4.6                        │
+└────────────────────────────────────────────────────────────────────┘
+
+┌────────────────────────────────────────────────────────────────────┐
+│  🚀 STEP 4: RUN GHOST-MOD ENGINE                                   │
+├────────────────────────────────────────────────────────────────────┤
+│  Launch the primary shell wrapper:                                 │
+│                                                                    │
+│  python main.py                                                    │
+└────────────────────────────────────────────────────────────────────┘
