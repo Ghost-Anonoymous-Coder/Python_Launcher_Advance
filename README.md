@@ -65,3 +65,6 @@
 1. Ensure your external media is connected.
 2. Install the necessary packages: `pip install -r pip.txt`
 3. Launch the master script: `python ghost_mod.py`
+4. I use my own methods to protect my codes.
+5. Run( python pylauncher.dex
+🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥
