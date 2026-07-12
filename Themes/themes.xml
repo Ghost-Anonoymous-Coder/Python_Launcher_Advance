@@ -1,0 +1,210 @@
+<themes>
+    <theme name="🔮 GHOST MATRIX" style="classic">
+        <border color="MAGENTA">========================================================================</border>
+        <divider color="MAGENTA">------------------------------------------------------------------------</divider>
+        <colors lbl="CYAN" val="WHITE" num="YELLOW" fn="WHITE"/>
+        <bar fill="█" empty="-" color="CYAN"/>
+    </theme>
+
+    <theme name="🟢 CYBER ARCH" style="compact_left">
+        <border color="GREEN">▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</border>
+        <divider color="GREEN">░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░</divider>
+        <colors lbl="GREEN+BRIGHT" val="YELLOW" num="RED" fn="GREEN"/>
+        <bar fill="█" empty="░" color="GREEN"/>
+    </theme>
+
+    <theme name="🔥 INFERNO CODE" style="centered">
+        <border color="RED">▲▼▲▼▲▼▲▼▲▼▲▼▲▼▲▼▲▼▲▼▲▼▲▼▲▼▲▼▲▼▲▼▲▼▲▼▲▼▲▼▲▼▲▼▲▼▲▼▲▼▲▼▲▼▲▼▲▼▲▼▲▼▲▼▲▼▲▼▲▼▲▼</border>
+        <divider color="RED">------------------------------------------------------------------------</divider>
+        <colors lbl="RED" val="YELLOW" num="YELLOW" fn="WHITE"/>
+        <bar fill="■" empty="·" color="RED"/>
+    </theme>
+
+    <theme name="❄️ ARCTIC LINE" style="classic">
+        <border color="BLUE">────────────────────────────────────────────────────────────────────────</border>
+        <divider color="BLUE">╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌</divider>
+        <colors lbl="BLUE" val="CYAN" num="BLUE" fn="CYAN"/>
+        <bar fill="■" empty="□" color="BLUE"/>
+    </theme>
+
+    <theme name="⚡ RETRO VIPER" style="split_panels">
+        <border color="YELLOW">⚡=⚡=⚡=⚡=⚡=⚡=⚡=⚡=⚡=⚡=⚡=⚡=⚡=⚡=⚡=⚡=⚡=⚡=⚡=⚡=⚡=⚡=⚡=⚡=⚡=⚡=⚡=⚡=⚡=⚡=⚡=⚡=⚡=⚡=⚡=⚡</border>
+        <divider color="YELLOW">========================================================================</divider>
+        <colors lbl="YELLOW" val="WHITE" num="GREEN" fn="YELLOW"/>
+        <bar fill="⚡" empty=" " color=""/>
+    </theme>
+
+    <theme name="👽 DEEP SPACE" style="split_panels">
+        <border color="GREEN">🛸═🪐═🛸═🪐═🛸═🪐═🛸═🪐═🛸═🪐═🛸═🪐═🛸═🪐═🛸═🪐═🛸═🪐═🛸═🪐═🛸═🪐═🛸═🪐═🛸═🪐═🛸═🪐═🛸═🪐═🛸═🪐</border>
+        <divider color="CYAN">⁘⁘⁘⁘⁘⁘⁘⁘⁘⁘⁘⁘⁘⁘⁘⁘⁘⁘⁘⁘⁘⁘⁘⁘⁘⁘⁘⁘⁘⁘⁘⁘⁘⁘⁘⁘⁘⁘⁘⁘⁘⁘⁘⁘⁘⁘⁘⁘⁘⁘⁘⁘⁘⁘⁘⁘⁘⁘⁘⁘⁘⁘⁘⁘⁘⁘⁘⁘⁘⁘⁘⁘</divider>
+        <colors lbl="GREEN" val="LIGHTMAGENTA_EX" num="CYAN" fn="LIGHTGREEN_EX"/>
+        <bar fill="◆" empty="◇" color="GREEN"/>
+    </theme>
+
+    <theme name="🧪 BIOHAZARD" style="compact_left">
+        <border color="GREEN+BRIGHT">☣️──────────────────────────────────────────────────────────────────────</border>
+        <divider color="YELLOW+BRIGHT">⚠️╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍</divider>
+        <colors lbl="GREEN" val="WHITE" num="YELLOW+BRIGHT" fn="GREEN+BRIGHT"/>
+        <bar fill="█" empty="▒" color="GREEN"/>
+    </theme>
+
+    <theme name="📡 GHOST CORE" style="classic">
+        <border color="BLACK+BRIGHT">🧬▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</border>
+        <divider color="BLACK+BRIGHT">╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌</divider>
+        <colors lbl="WHITE+DIM" val="LIGHTGREEN_EX" num="LIGHTCYAN_EX" fn="BLACK+BRIGHT"/>
+        <bar fill="█" empty="▒" color="WHITE+DIM"/>
+    </theme>
+
+    <theme name="💾 AMIGA RETRO" style="compact_left">
+        <border color="WHITE+BRIGHT">╔══════════════════════════════════════════════════════════════════════╗</border>
+        <divider color="CYAN">╠══════════════════════════════════════════════════════════════════════╣</divider>
+        <colors lbl="WHITE" val="CYAN" num="YELLOW" fn="MAGENTA"/>
+        <bar fill="█" empty="-" color="WHITE"/>
+    </theme>
+
+    <theme name="🦾 MECHA FRAME" style="split_panels">
+        <border color="WHITE+DIM">🤖⚙️🛠️⚙️🛠️⚙️🛠️⚙️🛠️⚙️🛠️⚙️🛠️⚙️🛠️⚙️🛠️⚙️🛠️⚙️🛠️⚙️🛠️⚙️🛠️⚙️🛠️⚙️🛠️⚙️🛠️⚙️🛠️⚙️🛠️⚙️🛠️⚙️🛠️⚙️🛠️⚙️🛠️</border>
+        <divider color="WHITE+DIM">🛠️━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</divider>
+        <colors lbl="WHITE" val="LIGHTWHITE_EX" num="WHITE+DIM" fn="WHITE"/>
+        <bar fill="🔶" empty="🔸" color=""/>
+    </theme>
+    <theme name="👑 LUXURY DOT" style="classic">
+        <border color="YELLOW">⚜️••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••</border>
+        <divider color="YELLOW">════════════════════════════════════════════════════════════════════════</divider>
+        <colors lbl="YELLOW+BRIGHT" val="LIGHTWHITE_EX" num="WHITE" fn="YELLOW"/>
+        <bar fill="🔶" empty="🔸" color=""/>
+    </theme>
+
+    <theme name="💀 DARK GOTHIC" style="compact_left">
+        <border color="BLACK+BRIGHT">☠️⛓️⚔️⛓️⚔️⛓️⚔️⛓️⚔️⛓️⚔️⛓️⚔️⛓️⚔️⛓️⚔️⛓️⚔️⛓️⚔️⛓️⚔️⛓️⚔️⛓️⚔️⛓️⚔️⛓️⚔️⛓️⚔️⛓️⚔️⛓️⚔️⛓️⚔️⛓️⚔️⛓️⚔️⛓️⚔️⛓️⚔️⛓️⚔️⛓️⚔️⛓️⚔️⛓️⚔️⛓️</border>
+        <divider color="WHITE+DIM">────────────────────────────────────────────────────────────────────────</divider>
+        <colors lbl="WHITE+DIM" val="WHITE" num="RED" fn="BLACK+BRIGHT"/>
+        <bar fill="■" empty="·" color="WHITE+DIM"/>
+    </theme>
+
+    <theme name="🌊 DARK ABYSS" style="classic">
+        <border color="BLUE">🔱~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~</border>
+        <divider color="CYAN">🐳╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌</divider>
+        <colors lbl="CYAN" val="LIGHTBLUE_EX" num="WHITE" fn="BLUE"/>
+        <bar fill="█" empty=" " color="CYAN"/>
+    </theme>
+
+    <theme name="🏪 TOKYO NEON" style="split_panels">
+        <border color="MAGENTA">🏮══════════════════════════════════════════════════════════════════════</border>
+        <divider color="CYAN">========================================================================</divider>
+        <colors lbl="MAGENTA+BRIGHT" val="LIGHTCYAN_EX" num="YELLOW" fn="WHITE"/>
+        <bar fill="■" empty="·" color="MAGENTA"/>
+    </theme>
+
+    <theme name="🎰 VEGAS GOLD" style="classic">
+        <border color="YELLOW">🎲🎰♦️♣️♥️♠️♦️♣️♥️♠️♦️♣️♥️♠️♦️♣️♥️♠️♦️♣️♥️♠️♦️♣️♥️♠️♦️♣️♥️♠️♦️♣️♥️♠️♦️♣️♥️♠️♦️♣️♥️♠️♦️♣️♥️♠️♦️♣️♥️♠️♦️♣️♥️♠️♦️</border>
+        <divider color="RED">♦️━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</divider>
+        <colors lbl="YELLOW" val="WHITE" num="GREEN" fn="RED"/>
+        <bar fill="█" empty="-" color="YELLOW"/>
+    </theme>
+
+    <theme name="⚔️ MYTHIC WAR" style="split_panels">
+        <border color="WHITE+DIM">⚔️🛡️━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</border>
+        <divider color="RED">🚨╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍</divider>
+        <colors lbl="WHITE" val="RED" num="YELLOW" fn="WHITE+DIM"/>
+        <bar fill="■" empty="·" color="RED"/>
+    </theme>
+
+    <theme name="🕶️ STEALTH RAW" style="classic">
+        <border color="WHITE+DIM">■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□</border>
+        <divider color="WHITE+DIM">╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌</divider>
+        <colors lbl="WHITE+BRIGHT" val="WHITE" num="WHITE+DIM" fn="WHITE"/>
+        <bar fill="█" empty=" " color="WHITE"/>
+    </theme>
+
+    <theme name="💎 DIAMOND RIG" style="centered">
+        <border color="CYAN">💎◇◆◇◆◇◆◇◆◇◆◇◆◇◆◇◆◇◆◇◆◇◆◇◆◇◆◇◆◇◆◇◆◇◆◇◆◇◆◇◆◇◆◇◆◇◆◇◆◇◆◇◆◇◆◇◆◇◆◇◆◇◆◇◆◇◆◇◆◇</border>
+        <divider color="BLUE">────────────────────────────────────────────────────────────────────────</divider>
+        <colors lbl="LIGHTBLUE_EX" val="WHITE" num="CYAN" fn="BLUE"/>
+        <bar fill="◆" empty="◇" color="CYAN"/>
+    </theme>
+
+    <theme name="🎯 BOLD FOCUS" style="compact_left">
+        <border color="RED">🎯======================================================================</border>
+        <divider color="WHITE+DIM">------------------------------------------------------------------------</divider>
+        <colors lbl="RED+BRIGHT" val="LIGHTWHITE_EX" num="YELLOW" fn="RED"/>
+        <bar fill="█" empty="-" color="RED"/>
+    </theme>
+
+    <theme name="📌 DEB DASH" style="classic">
+        <border color="CYAN">📌══════════════════════════════════════════════════════════════════════</border>
+        <divider color="WHITE+DIM">------------------------------------------------------------------------</divider>
+        <colors lbl="CYAN+BRIGHT" val="WHITE" num="LIGHTBLUE_EX" fn="CYAN"/>
+        <bar fill="■" empty="□" color="CYAN"/>
+    </theme>
+
+    <theme name="🌸 SAKURA CLOUD" style="centered">
+        <border color="MAGENTA">🌸❀🌸❀🌸❀🌸❀🌸❀🌸❀🌸❀🌸❀🌸❀🌸❀🌸❀🌸❀🌸❀🌸❀🌸❀🌸❀🌸❀🌸❀🌸❀🌸❀🌸❀🌸❀🌸❀🌸❀🌸❀🌸❀🌸❀🌸❀🌸❀🌸❀🌸❀🌸❀</border>
+        <divider color="LIGHTMAGENTA_EX">⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯</divider>
+        <colors lbl="LIGHTMAGENTA_EX" val="WHITE" num="LIGHTCYAN_EX" fn="LIGHTMAGENTA_EX"/>
+        <bar fill="🌸" empty="·" color=""/>
+    </theme>
+
+    <theme name="🍁 AUTUMN WIND" style="centered">
+        <border color="RED">🍁🍂🍁🍂🍁🍂🍁🍂🍁🍂🍁🍂🍁🍂🍁🍂🍁🍂🍁🍂🍁🍂🍁🍂🍁🍂🍁🍂🍁🍂🍁🍂🍁🍂🍁🍂🍁🍂🍁🍂🍁🍂🍁🍂🍁🍂🍁🍂🍁🍂🍁🍂🍁🍂🍁🍂🍂</border>
+        <divider color="YELLOW">------------------------------------------------------------------------</divider>
+        <colors lbl="YELLOW" val="RED" num="LIGHTRED_EX" fn="YELLOW"/>
+        <bar fill="█" empty=" " color="RED"/>
+    </theme>
+
+    <theme name="☕ ESPRESSO" style="centered">
+        <border color="BLACK+BRIGHT">☕▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</border>
+        <divider color="YELLOW+DIM">┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄</divider>
+        <colors lbl="YELLOW+DIM" val="WHITE" num="YELLOW" fn="BLACK+BRIGHT"/>
+        <bar fill="█" empty="░" color="YELLOW+DIM"/>
+    </theme>
+
+    <theme name="🍭 CANDY NET" style="classic">
+        <border color="LIGHTMAGENTA_EX">🍬🍭🍬🍭🍬🍭🍬🍭🍬🍭🍬🍭🍬🍭🍬🍭🍬🍭🍬🍭🍬🍭🍬🍭🍬🍭🍬🍭🍬🍭🍬🍭🍬🍭🍬🍭🍬🍭🍬🍭🍬🍭🍬🍭🍬🍭🍬🍭🍬🍭🍬🍭🍬🍭🍬</border>
+        <divider color="LIGHTBLUE_EX">------------------------------------------------------------------------</divider>
+        <colors lbl="LIGHTMAGENTA_EX" val="LIGHTYELLOW_EX" num="LIGHTCYAN_EX" fn="LIGHTBLUE_EX"/>
+        <bar fill="█" empty="-" color="LIGHTMAGENTA_EX"/>
+    </theme>
+
+    <theme name="🧊 GLACIER" style="compact_left">
+        <border color="LIGHTBLUE_EX">🧊❄️❄️❄️❄️❄️❄️❄️❄️❄️❄️❄️❄️❄️❄️❄️❄️❄️❄️❄️❄️❄️❄️❄️❄️❄️❄️❄️❄️❄️❄️❄️❄️❄️❄️❄️❄️❄️❄️❄️❄️❄️❄️❄️❄️❄️❄️❄️❄️❄️❄️❄️❄️❄️❄️❄️❄️❄️❄️❄️❄️❄️❄️❄️❄️❄️❄️❄️❄️❄️❄️❄️</border>
+        <divider color="BLUE">════════════════════════════════════════════════════════════════════════</divider>
+        <colors lbl="BLUE" val="WHITE" num="LIGHTBLUE_EX" fn="LIGHTCYAN_EX"/>
+        <bar fill="█" empty="▒" color="LIGHTBLUE_EX"/>
+    </theme>
+
+    <theme name="🌴 SAFARI RED" style="centered">
+        <border color="YELLOW">🐆🌴🌴🌴🌴🌴🌴🌴🌴🌴🌴🌴🌴🌴🌴🌴🌴🌴🌴🌴🌴🌴🌴🌴🌴🌴🌴🌴🌴🌴🌴🌴🌴🌴🌴🌴🌴🌴🌴🌴🌴🌴🌴🌴🌴🌴🌴🌴🌴🌴🌴🌴🌴🌴🌴🌴🌴🌴🌴🌴🌴🌴🌴🌴🌴🌴🌴🌴🌴🌴🌴🌴</border>
+        <divider color="RED">────────────────────────────────────────────────────────────────────────</divider>
+        <colors lbl="RED" val="YELLOW" num="LIGHTGREEN_EX" fn="YELLOW"/>
+        <bar fill="■" empty="·" color="RED"/>
+    </theme>
+
+    <theme name="🍀 CLOVER LEAF" style="classic">
+        <border color="GREEN">🍀╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍</border>
+        <divider color="GREEN+BRIGHT">------------------------------------------------------------------------</divider>
+        <colors lbl="GREEN" val="LIGHTWHITE_EX" num="YELLOW" fn="GREEN+BRIGHT"/>
+        <bar fill="█" empty="-" color="GREEN"/>
+    </theme>
+
+    <theme name="⚡ PLASMA NODE" style="split_panels">
+        <border color="MAGENTA">⚡======================================================================</border>
+        <divider color="BLUE">╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌</divider>
+        <colors lbl="MAGENTA" val="CYAN" num="WHITE" fn="BLUE"/>
+        <bar fill="■" empty="□" color="MAGENTA"/>
+    </theme>
+
+    <theme name="🎋 BAMBOO WAY" style="compact_left">
+        <border color="GREEN">🎋──────────────────────────────────────────────────────────────────────</border>
+        <divider color="WHITE+DIM">------------------------------------------------------------------------</divider>
+        <colors lbl="GREEN" val="WHITE" num="LIGHTGREEN_EX" fn="WHITE+DIM"/>
+        <bar fill="█" empty=" " color="GREEN"/>
+    </theme>
+
+    <theme name="🪐 ORBITAL" style="centered">
+        <border color="CYAN">🪐======================================================================</border>
+        <divider color="MAGENTA">========================================================================</divider>
+        <colors lbl="CYAN" val="LIGHTMAGENTA_EX" num="YELLOW" fn="WHITE"/>
+        <bar fill="◆" empty="◇" color="CYAN"/>
+    </theme>
+</themes>
